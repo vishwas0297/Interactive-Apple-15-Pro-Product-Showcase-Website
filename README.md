@@ -39,22 +39,5 @@ Welcome to the coolest slice of the internet where we celebrate the magnificence
 5. **Open Your Browser**: Go to `http://localhost:3000` and behold the magic! 🎩✨
 
 
-### 🌐 Hosted Website:
-
-Dive into the wonderland of Apple 15 Pro right now! 🚀 Explore the magic of cutting-edge technology and stunning design by visiting our hosted website [here](https://apple-website-clone-phi.vercel.app/). Get ready to be dazzled! 💫
 
 
-### Contribution:
-
-- Contributions are more than welcome! Whether it's fixing a bug, adding a feature, or just sprinkling some more magic dust, feel free to jump in and contribute to this whimsical journey.
-- Fork the repository, make your changes, and submit a pull request. We promise to shower you with virtual confetti and gratitude! 🎉🙏
-
-### Credits:
-
-- This project wouldn't be possible without the amazing open-source community and the wizards behind ReactJS, Vite, Tailwind CSS, GSAP, and Three.js. We tip our hats to you! 🎩🌟
-
-### Let's Connect:
-
-- Got questions, feedback, or just want to chat about the latest tech trends? Reach out to us! We're always up for a good conversation and maybe even some virtual apple pie. 🥧🍏
-
-Happy coding and enjoy your journey through the Apple 15 Pro Wonderland! 🚀🍎
