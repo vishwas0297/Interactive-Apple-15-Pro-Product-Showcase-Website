@@ -25,18 +25,18 @@ Welcome to the coolest slice of the internet where we celebrate the magnificence
 ### Features:
 
 - **Slick ReactJS**: We're bringing you the latest in web development with ReactJS. It's like magic, but with more curly braces.
-- **Vite for Velocity**: Vite will make your development process so fast, you'll think you're traveling through time. ⏱️💨
-- **Tailwind CSS Styling**: Say goodbye to boring stylesheets and hello to Tailwind CSS, where every class feels like a fashion statement. 💅
-- **GSAP Animation**: GSAP adds that extra sparkle to your website, making it dance and shine like the star it is. ✨
-- **Three.js 3D Model**: We're not just showing you the Apple 15 Pro; we're bringing it to life in stunning 3D! Get ready to spin, zoom, and admire from every angle. 🔄🔍
+- **Vite for Velocity**: Vite will make your development process so fast, you'll think you're traveling through time.
+- **Tailwind CSS Styling**: Say goodbye to boring stylesheets and hello to Tailwind CSS, where every class feels like a fashion statement. 
+- **GSAP Animation**: GSAP adds that extra sparkle to your website, making it dance and shine like the star it is. 
+- **Three.js 3D Model**: We're not just showing you the Apple 15 Pro; we're bringing it to life in stunning 3D! Get ready to spin, zoom, and admire from every angle. 
 
 ### Installation:
 
-1. **Clone this Repository**: `$ git clone https://github.com/thamir0022/Apple-Website-Clone.git`
+1. **Clone this Repository**: `$ git clone https://github.com/vishwas0297/Interactive-Apple-15-Pro-Product-Showcase-Website.git`
 2. **Navigate to the Directory**: `$ cd Apple-Website-Clone`
 3. **Install Dependencies**: `$ npm install`
 4. **Run the Project**: `$ npm run dev`
-5. **Open Your Browser**: Go to `http://localhost:3000` and behold the magic! 🎩✨
+5. **Open Your Browser**: Go to `http://localhost:3000` and behold the magic! 
 
 
 
